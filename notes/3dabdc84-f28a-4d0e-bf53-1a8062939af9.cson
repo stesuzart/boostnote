@@ -1,0 +1,17 @@
+createdAt: "2022-04-21T15:25:56.134Z"
+updatedAt: "2022-04-21T15:54:24.697Z"
+type: "MARKDOWN_NOTE"
+folder: "3409b5f37e43d1f26709"
+title: "Basics of OOP"
+tags: []
+content: '''
+  # Basics of OOP
+  
+  **P**rogramação **O**rientada a **O**bjetos (POO) é um modelo de programação baseado no conceito de fazer um agrupamento de dados que chamamos de objetos, e comportamentos relacionados aqueles dados que são conhecidos como métodos. Os **objetos** são contruidos de um conjunto de _blueprints_, definidos por um programador, chamado de **classes**.
+  
+  ## Obejtos e Classes
+  
+'''
+linesHighlighted: []
+isStarred: false
+isTrashed: false

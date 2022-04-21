@@ -1,0 +1,26 @@
+createdAt: "2022-04-21T15:05:18.395Z"
+updatedAt: "2022-04-21T15:25:33.694Z"
+type: "MARKDOWN_NOTE"
+folder: "3409b5f37e43d1f26709"
+title: "How to start to programming"
+tags: [
+  "#topics"
+]
+content: '''
+  ## How to start to programming
+  
+  ### Step 1 - The essentials
+  - Basics of OOP
+  - Basics of Kotlin
+  - Basics of Git
+  
+  ### Step 2 - Must know
+  
+  - What is Framework?
+  - What is Relational Database?
+  - What is CRUD? 
+  - Verbs Http
+'''
+linesHighlighted: []
+isStarred: true
+isTrashed: false

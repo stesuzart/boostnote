@@ -1,5 +1,5 @@
 createdAt: "2022-04-21T14:43:13.881Z"
-updatedAt: "2022-04-21T14:43:31.986Z"
+updatedAt: "2022-04-21T20:08:38.465Z"
 type: "MARKDOWN_NOTE"
 folder: "3409b5f37e43d1f26709"
 title: "Testando"
@@ -8,4 +8,5 @@ tags: [
   "#git"
 ]
 isStarred: false
-isTrashed: false
+isTrashed: true
+linesHighlighted: []
