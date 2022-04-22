@@ -1,13 +1,10 @@
-createdAt: "2022-04-21T15:05:18.395Z"
-updatedAt: "2022-04-22T13:58:35.515Z"
+createdAt: "2022-04-22T13:57:35.003Z"
+updatedAt: "2022-04-22T13:58:03.667Z"
 type: "MARKDOWN_NOTE"
 folder: "3409b5f37e43d1f26709"
 title: "How to start to programming"
-tags: [
-  "#topics"
-]
 content: '''
-  ## How to start to programming
+  # How to start to programming
   
   ### Step 1 - The essentials
   - Basics of OOP
@@ -21,6 +18,6 @@ content: '''
   - What is CRUD? 
   - Verbs Http
 '''
-linesHighlighted: []
-isStarred: true
-isTrashed: true
+tags: []
+isStarred: false
+isTrashed: false
